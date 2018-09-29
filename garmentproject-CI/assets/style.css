@@ -1,0 +1,148 @@
+#home .back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 100px;
+    display:none;
+}
+
+#home .navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+#home .navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+#login .card-hitam{
+	border-color: #232323;
+}
+
+#login .card-header{
+	color: #EEEEEE;
+    background-color: #232323;
+    border-color: #EEEEEE;
+}
+
+#login .card-title{
+	margin: 0;
+}
+
+#login .controls{
+	padding: 0;
+}
+
+#login #loginform{
+	margin: 0;
+}
+
+#login .control{
+	padding: 0;
+}
+
+#home .icon-size
+{
+    font-size: 87px;
+}
+#home #scroll-hide{
+   overflow: hidden;
+}
+#home #scroll-hide .inner{
+   overflow:auto;
+   margin:20px;
+   padding-right:20px;
+}
+
+#list span.glyphicon-edit {
+    font-size: 1.2em;
+}
+#list .table-striped tbody tr:hover > td{
+    background: #EEE;
+}
+#list .filter-col{
+    padding-left:10px;
+    padding-right:10px;
+}
+#list .center{
+    width: 150px;
+    margin: 40px auto;
+}
+
+#list #scroll-hide{
+  overflow:hidden;
+}
+
+#list #scroll-hide .inner{
+  overflow:auto;
+  margin:20px;
+  padding-right:20px;
+}
+
+#list #logo{
+	font-size: 106px;
+}
+
+#list #dropdownMenuButton{
+	background-color: transparent;
+	color: white;
+}
+
+#list .nav-item a{
+	font-weight: 500;
+	color: #999;
+}
+
+#list .navbar-login a{
+	font-weight: 500;
+	color: white;
+}
+
+#list .nav-item a:hover{
+	font-weight: 500;
+	color: white;
+}
+
+#list .dropdown-menu a:hover{
+	font-weight: 500;
+	color: black;
+}
+
+#list .active .dropdown-toggle{
+	font-weight: 500;
+	color: white;
+}
+
+#login{
+    background: #EEEEEE;
+    margin-top: 85px;
+}
+
+#profile #logo{
+	font-size: 106px;
+	margin-top: 20px;
+}
+
+.product{
+	margin: auto;
+}
+
+.navbar-login
+{
+	width: 305px;
+	padding: 10px;
+	padding-bottom: 0px;
+}
+
+#logo{
+	font-size: 106px;
+}
+
+.navbar-nav li{
+	margin: auto;
+}
